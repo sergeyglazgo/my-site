@@ -1,0 +1,34 @@
+body {}
+
+header {
+	text-align: center;
+	background-color: #4a4744;
+	color: #fff;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	padding-top: 20px;
+}
+
+h3 {
+	padding-bottom: 20px;
+	font-family: sans-serif;
+	font-style: italic;
+}
+
+footer {
+	color: #4a4744;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	text-align: center;
+	margin-right: 10px;
+}
+
+div {
+	text-align: center;
+	margin-top: 4em;
+}
